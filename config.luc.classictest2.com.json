@@ -1,0 +1,23 @@
+{
+    "configVersion": "1",
+    "https": true,
+    "templateVersion": 8,
+    "locales": [
+      "en"
+    ],
+    "features": [],
+    "requireArtifactBuild": true,
+    "minFileCount": 1,
+    "ci_config": {
+      "build_setup_cmd": ":",
+      "build_cmd": ":",
+      "serve_setup_cmd": ":",
+      "serve_cmd": ":",
+      "rebuild_cmd": ":",
+      "output_directories": [ "desktop" ],
+      "dependencies": {
+        "install_deps_cmd": ":",
+        "required_files": []
+      }
+    }
+  }
